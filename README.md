@@ -11,7 +11,7 @@ Perkenalkan nama saya **Miftahudin Akbar**.
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=miptah21&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-![Snake animation](https://raw.githubusercontent.com/miptah21/miptah21/output/github-contribution-grid-snake-dark.svg)
+
 <!--
 **miptah21/miptah21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Snake animation](https://raw.githubusercontent.com/miptah21/miptah21/output/github-contribution-grid-snake-dark.svg)
